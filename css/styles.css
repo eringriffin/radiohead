@@ -1,0 +1,26 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  float: left;
+  }
+
+.column {
+  width: 200px;
+  float: left;
+  text-align: center;
+  font-weight: bold;
+}
+
+  .sidebar {
+  width:30%;
+  text-align: center;
+  float:right;
+  background-color: black;
+  color: white;
+}
